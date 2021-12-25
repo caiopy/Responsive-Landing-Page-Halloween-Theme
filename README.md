@@ -1,6 +1,7 @@
 
 
-<p align="center" display="flex" flex-direction="column">
+<p align="center">
+   <img alt="skull" src="assets/img/logo.png" width="160px">
    Halloween
 </p>
 
