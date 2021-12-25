@@ -1,9 +1,10 @@
 
 
-<p align="center">
-   <img alt="skull" src="assets/img/logo.png" width="160px">
-   Halloween
+<p align="center" display="flex" flex-direction="column">
+   <img alt="skull" src="assets/img/logo.png" width="120px">
+   <span>halloween</span>
 </p>
+
 
 
 
