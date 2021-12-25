@@ -2,8 +2,9 @@
 
 <p align="center">
    <img alt="skull" src="assets/img/logo.png" width="120px">
-   <span display="block">halloween</span>
+   <h2>Halloween</h2>
 </p>
+
 
 
 
