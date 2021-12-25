@@ -1,8 +1,8 @@
 
 
-<p align="center" display="flex" flex-direction="column">
+<p align="center">
    <img alt="skull" src="assets/img/logo.png" width="120px">
-   <span>halloween</span>
+   <span display="block">halloween</span>
 </p>
 
 
