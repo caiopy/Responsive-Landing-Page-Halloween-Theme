@@ -1,14 +1,11 @@
 
 
 <p align="center" display="flex" flex-direction="column">
-  <img alt="Letmeask" src=".assets/img/logo.svg" width="160px">
+  <img alt="skull" src="assets/img/logo.svg" width="160px">
   <h3> Halloween</h3>
 </p>
 
 
-<h1 align="center">
-    <img alt="Letmeask" src=".github/cover.svg" />
-</h1>
 
 <br>
 
