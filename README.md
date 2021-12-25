@@ -1,8 +1,7 @@
 
 
 <p align="center" display="flex" flex-direction="column">
-  <img alt="skull" src="assets/img/logo.svg" width="160px">
-  <h3> Halloween</h3>
+   Halloween
 </p>
 
 
